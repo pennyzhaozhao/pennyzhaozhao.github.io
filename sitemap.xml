@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pennyzhaozhao.github.io/about/index.html</loc>
+    
+    <lastmod>2026-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pennyzhaozhao.github.io/posts/84b720fa/</loc>
     
     <lastmod>2025-01-28</lastmod>
@@ -146,15 +155,6 @@
   </url>
   
   <url>
-    <loc>https://pennyzhaozhao.github.io/about/index.html</loc>
-    
-    <lastmod>2024-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://pennyzhaozhao.github.io/tags/index.html</loc>
     
     <lastmod>2024-11-09</lastmod>
@@ -245,14 +245,14 @@
   </url>
   
   <url>
-    <loc>https://pennyzhaozhao.github.io/categories/measure-theory/</loc>
+    <loc>https://pennyzhaozhao.github.io/categories/time-series/</loc>
     <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pennyzhaozhao.github.io/categories/time-series/</loc>
+    <loc>https://pennyzhaozhao.github.io/categories/measure-theory/</loc>
     <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
